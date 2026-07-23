@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Market_Venta",
+    "slug": "market-comisiones",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "icon": "./assets/icon.png",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.hector.marketcomisiones",
+      "icon": "./assets/icon.png"
+    },
+    "android": {
+      "package": "com.hector.marketcomisiones",
+      "userInterfaceStyle": "dark",
+      "icon": "./assets/icon.png",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#071630"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "58310608-d101-4112-a141-e73a82ecc598"
+      }
+    }
+  }
+}
